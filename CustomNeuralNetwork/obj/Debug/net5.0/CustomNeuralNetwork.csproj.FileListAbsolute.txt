@@ -1,0 +1,12 @@
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\bin\Debug\net5.0\CustomNeuralNetwork.deps.json
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\bin\Debug\net5.0\CustomNeuralNetwork.dll
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\bin\Debug\net5.0\ref\CustomNeuralNetwork.dll
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\bin\Debug\net5.0\CustomNeuralNetwork.pdb
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\obj\Debug\net5.0\CustomNeuralNetwork.csprojAssemblyReference.cache
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\obj\Debug\net5.0\CustomNeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\obj\Debug\net5.0\CustomNeuralNetwork.AssemblyInfoInputs.cache
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\obj\Debug\net5.0\CustomNeuralNetwork.AssemblyInfo.cs
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\obj\Debug\net5.0\CustomNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\obj\Debug\net5.0\CustomNeuralNetwork.dll
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\obj\Debug\net5.0\ref\CustomNeuralNetwork.dll
+C:\Code\Github\CustomNeuralNetwork\CustomNeuralNetwork\obj\Debug\net5.0\CustomNeuralNetwork.pdb

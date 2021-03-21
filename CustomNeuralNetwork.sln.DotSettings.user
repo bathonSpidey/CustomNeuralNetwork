@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/UseMsbuildSolutionBuilder/@EntryValue">NewVersion</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=840126a1_002Dd9d0_002D4c22_002Db6ce_002D654ce71cd9ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Nothing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::19A51217-B15F-43E7-88E5-56D7D4200873::net5.0::CustomNeuralNetworkTests.NumSharpTests.InitializingRandomMatricesShouldHaveValidValues&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::19A51217-B15F-43E7-88E5-56D7D4200873::net5.0::CustomNeuralNetworkTests.NumSharpTests.InitializingZerosShouldBeAllZeros&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::19A51217-B15F-43E7-88E5-56D7D4200873::net5.0::CustomNeuralNetworkTests.NetworkTests.CalculateOutputLayerActivation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::19A51217-B15F-43E7-88E5-56D7D4200873::net5.0::CustomNeuralNetworkTests.NetworkTests.ComputeCostShouldHaveValidResults&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Relu/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

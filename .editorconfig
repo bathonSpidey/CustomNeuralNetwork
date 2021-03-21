@@ -1,0 +1,14 @@
+
+[*]
+
+# ReSharper properties
+resharper_braces_for_for = required_for_multiline
+resharper_braces_for_foreach = required_for_multiline
+resharper_braces_for_ifelse = required_for_multiline
+resharper_braces_for_while = required_for_multiline
+resharper_constructor_or_destructor_body = expression_body
+resharper_csharp_empty_block_style = together
+resharper_force_attribute_style = join
+resharper_local_function_body = expression_body
+resharper_method_or_operator_body = expression_body
+resharper_parentheses_redundancy_style = remove
