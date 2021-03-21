@@ -64,9 +64,16 @@ namespace CustomNeuralNetworkTests
 			var outputActivations = GetLastLayerActivation();
 			var result = network.ComputeCost(outputActivations, targets);
 			Assert.That(result,Is.TypeOf<float>());
-			Assert.That(result,Is.GreaterThanOrEqualTo(0));
-			Console.WriteLine(result);
+			Assert.That(result,Is.GreaterThanOrEqualTo(0.069f));
 		}
+
+		[Test]
+		public void BackPropagationShouldHaveValidGradients()
+		{
+			network.BackWardPropagation(GetLastLayerActivation(),targets);
+		}
+
+
 
 	}
 }

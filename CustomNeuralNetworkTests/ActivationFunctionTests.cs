@@ -29,5 +29,17 @@ namespace CustomNeuralNetworkTests
 			var result = function.Calculate(testMatrix);
 			Assert.That(result.Data<float>().All(v => Math.Abs(v - 1f) < .01f), Is.True);
 		}
+
+		[Test]
+		public void ReluDerivative()
+		{
+			var test = new float[,] {{1, -.4f}, {6, -2}};
+			var testMatrix = np.array(test);
+			var result = new Relu().Derivative(testMatrix);
+			Assert.That((float)result[0][0],Is.EqualTo(1f));
+			Assert.That((float)result[0][1], Is.EqualTo(0f));
+			Assert.That((float)result[1][0], Is.EqualTo(6f));
+			Assert.That((float)result[1][1], Is.EqualTo(0f));
+		}
 	}
 }
